@@ -1,6 +1,6 @@
 ## Nicole Hodiny-Vallin
 
-I'm a QA Automation Engineer experienced in Playwright UI & API test automation and AI testing. I care about building robust test coverage and automation frameworks that are reliable, readable, and maintainable for my team, ultimately ensuring a seamless, bug-free experience for users.
+Hi! I'm a QA Automation Engineer experienced in Playwright UI & API test automation and AI testing. I care about building robust test coverage and automation frameworks that are reliable, readable, and maintainable for my team, ultimately ensuring a seamless, bug-free experience for users.
 
 💼 **[Explore my QA portfolio](https://github.com/hodinyvallin/portfolio)** | 👩🏻‍💻 **[Connect on LinkedIn](https://www.linkedin.com/in/nicolehodiny)** | 📧 **[Email me](mailto:nicolehodiny@gmail.com)**
 
@@ -38,3 +38,4 @@ _For a full breakdown of how I structure manual test cases, Postman collections,
 🐛 Bugs are system failures before they're human ones.  
 👤 Test cases aren't just paths. They represent a user trying to reach a goal.  
 🎁 Feedback is a gift, not a verdict.  
+🪜 Don't kick ladders. Pull others up.
